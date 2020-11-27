@@ -1,0 +1,2371 @@
+'procon_dashboard.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'D:\DucDemo\moi\proconNhan-master\procon_dashboard\bin\Debug\procon_dashboard.exe'. Symbols loaded.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+gio: 1/1/1970 7:00:00 AM
+gio: 1/1/1970 7:00:30 AM
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+---- Ping -----
+toekn: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiRHV5VGFuRHJhZ29uIiwiaWF0IjoxNTc1NDY2NjA4LCJleHAiOjE1NzU1NTMwMDh9.xvOnJeTWd-efVVN0lbklw2inli-59z4m4xOzrHEEusY
+ket qua server tra ve: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  X-DNS-Prefetch-Control: off
+  X-Frame-Options: SAMEORIGIN
+  Strict-Transport-Security: max-age=15552000; includeSubDomains
+  X-Download-Options: noopen
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Access-Control-Allow-Origin: *
+  X-RateLimit-Limit: 5
+  X-RateLimit-Remaining: 4
+  X-RateLimit-Reset: 1575475721
+  Connection: keep-alive
+  Date: Wed, 04 Dec 2019 13:39:04 GMT
+  ETag: W/"f-v/Y1JusChTxrQUzPtNAKycooOTA"
+  Content-Length: 15
+  Content-Type: application/json; charset=utf-8
+}
+The thread 0x24d4 has exited with code 0 (0x0).
+The thread 0x35dc has exited with code 0 (0x0).
+The thread 0x3c60 has exited with code 0 (0x0).
+The thread 0x12d0 has exited with code 0 (0x0).
+The thread 0x37c4 has exited with code 0 (0x0).
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'D:\DucDemo\moi\proconNhan-master\procon_dashboard\bin\Debug\Newtonsoft.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+---- Matches -----
+toekn: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiRHV5VGFuRHJhZ29uIiwiaWF0IjoxNTc1NDY2NjA4LCJleHAiOjE1NzU1NTMwMDh9.xvOnJeTWd-efVVN0lbklw2inli-59z4m4xOzrHEEusY
+body: [{"id":388,"intervalMillis":2000,"matchTo":"BKDN.PROCHA  -  DuyTanDragon","teamID":38,"turnMillis":16000,"turns":30}]
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+item: {
+  "id": 388,
+  "intervalMillis": 2000,
+  "matchTo": "BKDN.PROCHA  -  DuyTanDragon",
+  "teamID": 38,
+  "turnMillis": 16000,
+  "turns": 30
+}
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'procon_dashboard.exe' (CLR v4.0.30319: procon_dashboard.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+host: http://172.16.4.212:7000/ token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiRHV5VGFuRHJhZ29uIiwiaWF0IjoxNTc1NDY2NjA4LCJleHAiOjE1NzU1NTMwMDh9.xvOnJeTWd-efVVN0lbklw2inli-59z4m4xOzrHEEusY
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+The thread 0x1b6c has exited with code 0 (0x0).
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467007829
+Ve Map
+x: 8 y: 0
+	dx: 7 dy: -1
+	dx: 8 dy: -1
+	dx: 9 dy: -1
+	dx: 9 dy: 0
+	dx: 9 dy: 1
+	dx: 8 dy: 1
+	dx: 7 dy: 1
+	dx: 7 dy: 0
+vt: 7
+	dxm: 7 dym: 0
+_min: 7
+x: 6 y: 4
+	dx: 5 dy: 3
+	dx: 6 dy: 3
+	dx: 7 dy: 3
+	dx: 7 dy: 4
+	dx: 7 dy: 5
+	dx: 6 dy: 5
+	dx: 5 dy: 5
+	dx: 5 dy: 4
+vt: 0
+	dxm: 5 dym: 3
+_min: 4
+x: 1 y: 9
+	dx: 0 dy: 8
+	dx: 1 dy: 8
+	dx: 2 dy: 8
+	dx: 2 dy: 9
+	dx: 2 dy: 10
+	dx: 1 dy: 10
+	dx: 0 dy: 10
+	dx: 0 dy: 9
+vt: 3
+	dxm: 2 dym: 9
+_min: 7
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":0,"turn":0,"type":"move","agentID":4},{"dx":-1,"dy":-1,"turn":0,"type":"move","agentID":5},{"dx":1,"dy":0,"turn":0,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466990842
+Ve Map
+x: 7 y: 0
+	dx: 6 dy: -1
+	dx: 7 dy: -1
+	dx: 8 dy: -1
+	dx: 8 dy: 0
+	dx: 8 dy: 1
+	dx: 7 dy: 1
+	dx: 6 dy: 1
+	dx: 6 dy: 0
+vt: 6
+	dxm: 6 dym: 1
+_min: 3
+x: 5 y: 3
+	dx: 4 dy: 2
+	dx: 5 dy: 2
+	dx: 6 dy: 2
+	dx: 6 dy: 3
+	dx: 6 dy: 4
+	dx: 5 dy: 4
+	dx: 4 dy: 4
+	dx: 4 dy: 3
+vt: 0
+	dxm: 4 dym: 2
+_min: 5
+x: 2 y: 9
+	dx: 1 dy: 8
+	dx: 2 dy: 8
+	dx: 3 dy: 8
+	dx: 3 dy: 9
+	dx: 3 dy: 10
+	dx: 2 dy: 10
+	dx: 1 dy: 10
+	dx: 1 dy: 9
+vt: 2
+	dxm: 3 dym: 8
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":1,"turn":1,"type":"move","agentID":4},{"dx":-1,"dy":-1,"turn":1,"type":"move","agentID":5},{"dx":1,"dy":-1,"turn":1,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466991853
+Ve Map
+x: 6 y: 1
+	dx: 5 dy: 0
+	dx: 6 dy: 0
+	dx: 7 dy: 0
+	dx: 7 dy: 1
+	dx: 7 dy: 2
+	dx: 6 dy: 2
+	dx: 5 dy: 2
+	dx: 5 dy: 1
+vt: 6
+	dxm: 5 dym: 2
+_min: 5
+x: 4 y: 2
+	dx: 3 dy: 1
+	dx: 4 dy: 1
+	dx: 5 dy: 1
+	dx: 5 dy: 2
+	dx: 5 dy: 3
+	dx: 4 dy: 3
+	dx: 3 dy: 3
+	dx: 3 dy: 2
+vt: 3
+	dxm: 5 dym: 2
+_min: 5
+x: 3 y: 8
+	dx: 2 dy: 7
+	dx: 3 dy: 7
+	dx: 4 dy: 7
+	dx: 4 dy: 8
+	dx: 4 dy: 9
+	dx: 3 dy: 9
+	dx: 2 dy: 9
+	dx: 2 dy: 8
+vt: 2
+	dxm: 4 dym: 7
+_min: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":1,"turn":2,"type":"move","agentID":4},{"dx":1,"dy":0,"turn":2,"type":"move","agentID":5},{"dx":1,"dy":-1,"turn":2,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466992864
+Ve Map
+x: 6 y: 1
+	dx: 5 dy: 0
+	dx: 6 dy: 0
+	dx: 7 dy: 0
+	dx: 7 dy: 1
+	dx: 7 dy: 2
+	dx: 6 dy: 2
+	dx: 5 dy: 2
+	dx: 5 dy: 1
+vt: 6
+	dxm: 5 dym: 2
+_min: 5
+x: 4 y: 2
+	dx: 3 dy: 1
+	dx: 4 dy: 1
+	dx: 5 dy: 1
+	dx: 5 dy: 2
+	dx: 5 dy: 3
+	dx: 4 dy: 3
+	dx: 3 dy: 3
+	dx: 3 dy: 2
+vt: 3
+	dxm: 5 dym: 2
+_min: 5
+x: 4 y: 7
+	dx: 3 dy: 6
+	dx: 4 dy: 6
+	dx: 5 dy: 6
+	dx: 5 dy: 7
+	dx: 5 dy: 8
+	dx: 4 dy: 8
+	dx: 3 dy: 8
+	dx: 3 dy: 7
+vt: 3
+	dxm: 5 dym: 7
+_min: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":1,"turn":3,"type":"move","agentID":4},{"dx":1,"dy":0,"turn":3,"type":"move","agentID":5},{"dx":1,"dy":0,"turn":3,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466993874
+Ve Map
+x: 6 y: 1
+	dx: 5 dy: 0
+	dx: 6 dy: 0
+	dx: 7 dy: 0
+	dx: 7 dy: 1
+	dx: 7 dy: 2
+	dx: 6 dy: 2
+	dx: 5 dy: 2
+	dx: 5 dy: 1
+vt: 6
+	dxm: 5 dym: 2
+_min: 5
+x: 4 y: 2
+	dx: 3 dy: 1
+	dx: 4 dy: 1
+	dx: 5 dy: 1
+	dx: 5 dy: 2
+	dx: 5 dy: 3
+	dx: 4 dy: 3
+	dx: 3 dy: 3
+	dx: 3 dy: 2
+vt: 3
+	dxm: 5 dym: 2
+_min: 5
+x: 5 y: 7
+	dx: 4 dy: 6
+	dx: 5 dy: 6
+	dx: 6 dy: 6
+	dx: 6 dy: 7
+	dx: 6 dy: 8
+	dx: 5 dy: 8
+	dx: 4 dy: 8
+	dx: 4 dy: 7
+vt: 0
+	dxm: 4 dym: 6
+_min: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 4 Y: 2
+btn_click_agent: Color [White]
+location: -1
+X: 3 Y: 1
+dx: -1 dy: -1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 5 Y: 7
+btn_click_agent: Color [White]
+location: -1
+X: 5 Y: 6
+dx: 0 dy: -1
+Con thay doi: 6
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":1,"turn":4,"type":"move","agentID":4},{"dx":-1,"dy":-1,"turn":4,"type":"move","agentID":5},{"dx":0,"dy":-1,"turn":4,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466994881
+Ve Map
+x: 5 y: 2
+	dx: 4 dy: 1
+	dx: 5 dy: 1
+	dx: 6 dy: 1
+	dx: 6 dy: 2
+	dx: 6 dy: 3
+	dx: 5 dy: 3
+	dx: 4 dy: 3
+	dx: 4 dy: 2
+vt: 6
+	dxm: 4 dym: 3
+_min: 4
+x: 3 y: 1
+	dx: 2 dy: 0
+	dx: 3 dy: 0
+	dx: 4 dy: 0
+	dx: 4 dy: 1
+	dx: 4 dy: 2
+	dx: 3 dy: 2
+	dx: 2 dy: 2
+	dx: 2 dy: 1
+vt: 0
+	dxm: 2 dym: 0
+_min: 7
+x: 5 y: 6
+	dx: 4 dy: 5
+	dx: 5 dy: 5
+	dx: 6 dy: 5
+	dx: 6 dy: 6
+	dx: 6 dy: 7
+	dx: 5 dy: 7
+	dx: 4 dy: 7
+	dx: 4 dy: 6
+vt: 7
+	dxm: 4 dym: 6
+_min: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+The thread 0xf5c has exited with code 0 (0x0).
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 3 Y: 1
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 1
+dx: -2 dy: 0
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 1
+btn_click_agent: Color [Blue]
+location: 5
+X: 3 Y: 1
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 1
+dx: -1 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [Blue]
+location: 4
+X: 5 Y: 2
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 5 Y: 1
+dx: 0 dy: -1
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 5 Y: 6
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":-1,"turn":5,"type":"move","agentID":4},{"dx":-1,"dy":0,"turn":5,"type":"move","agentID":5},{"dx":-1,"dy":0,"turn":5,"type":"move","agentID":6}]}
+btn_click_agent: Color [White]
+location: -1
+X: 6 Y: 6
+dx: 1 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466995894
+Ve Map
+x: 5 y: 1
+	dx: 4 dy: 0
+	dx: 5 dy: 0
+	dx: 6 dy: 0
+	dx: 6 dy: 1
+	dx: 6 dy: 2
+	dx: 5 dy: 2
+	dx: 4 dy: 2
+	dx: 4 dy: 1
+vt: 2
+	dxm: 6 dym: 0
+_min: 2
+x: 2 y: 1
+	dx: 1 dy: 0
+	dx: 2 dy: 0
+	dx: 3 dy: 0
+	dx: 3 dy: 1
+	dx: 3 dy: 2
+	dx: 2 dy: 2
+	dx: 1 dy: 2
+	dx: 1 dy: 1
+vt: 1
+	dxm: 2 dym: 0
+_min: 7
+x: 4 y: 6
+	dx: 3 dy: 5
+	dx: 4 dy: 5
+	dx: 5 dy: 5
+	dx: 5 dy: 6
+	dx: 5 dy: 7
+	dx: 4 dy: 7
+	dx: 3 dy: 7
+	dx: 3 dy: 6
+vt: 0
+	dxm: 3 dym: 5
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Violet]
+location: -1
+X: 2 Y: 0
+btn_click_agent: Color [Blue]
+location: 5
+X: 2 Y: 1
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 2
+dx: -1 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 4 Y: 6
+btn_click_agent: Color [White]
+location: -1
+X: 3 Y: 7
+dx: -1 dy: 1
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 5 Y: 1
+btn_click_agent: Color [White]
+location: -1
+X: 4 Y: 1
+dx: -1 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+Too many requests, please try again later.
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466996906
+Ve Map
+x: 5 y: 1
+	dx: 4 dy: 0
+	dx: 5 dy: 0
+	dx: 6 dy: 0
+	dx: 6 dy: 1
+	dx: 6 dy: 2
+	dx: 5 dy: 2
+	dx: 4 dy: 2
+	dx: 4 dy: 1
+vt: 2
+	dxm: 6 dym: 0
+_min: 2
+x: 2 y: 1
+	dx: 1 dy: 0
+	dx: 2 dy: 0
+	dx: 3 dy: 0
+	dx: 3 dy: 1
+	dx: 3 dy: 2
+	dx: 2 dy: 2
+	dx: 1 dy: 2
+	dx: 1 dy: 1
+vt: 1
+	dxm: 2 dym: 0
+_min: 7
+x: 4 y: 6
+	dx: 3 dy: 5
+	dx: 4 dy: 5
+	dx: 5 dy: 5
+	dx: 5 dy: 6
+	dx: 5 dy: 7
+	dx: 4 dy: 7
+	dx: 3 dy: 7
+	dx: 3 dy: 6
+vt: 0
+	dxm: 3 dym: 5
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+The thread 0x38c0 has exited with code 0 (0x0).
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":1,"dy":-1,"turn":7,"type":"move","agentID":4},{"dx":0,"dy":-1,"turn":7,"type":"move","agentID":5},{"dx":-1,"dy":-1,"turn":7,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 2 Y: 1
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 3 Y: 2
+dx: 1 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 4 Y: 6
+Lay thong tin tran dau: 388
+Time server: 1575466997918
+Ve Map
+x: 6 y: 0
+	dx: 5 dy: -1
+	dx: 6 dy: -1
+	dx: 7 dy: -1
+	dx: 7 dy: 0
+	dx: 7 dy: 1
+	dx: 6 dy: 1
+	dx: 5 dy: 1
+	dx: 5 dy: 0
+vt: 4
+	dxm: 7 dym: 1
+_min: -1
+x: 2 y: 0
+	dx: 1 dy: -1
+	dx: 2 dy: -1
+	dx: 3 dy: -1
+	dx: 3 dy: 0
+	dx: 3 dy: 1
+	dx: 2 dy: 1
+	dx: 1 dy: 1
+	dx: 1 dy: 0
+vt: 7
+	dxm: 1 dym: 0
+_min: 3
+x: 3 y: 5
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 4 dy: 4
+	dx: 4 dy: 5
+	dx: 4 dy: 6
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 2 dy: 5
+vt: 1
+	dxm: 3 dym: 4
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 5
+btn_click_agent: Color [White]
+location: -1
+X: 3 Y: 6
+dx: 0 dy: 1
+Con thay doi: 6
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 6 Y: 0
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 5 Y: 0
+dx: -1 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":0,"turn":8,"type":"move","agentID":4},{"dx":-1,"dy":0,"turn":8,"type":"move","agentID":5},{"dx":0,"dy":1,"turn":8,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Time server: 1575466998927
+Ve Map
+x: 5 y: 0
+	dx: 4 dy: -1
+	dx: 5 dy: -1
+	dx: 6 dy: -1
+	dx: 6 dy: 0
+	dx: 6 dy: 1
+	dx: 5 dy: 1
+	dx: 4 dy: 1
+	dx: 4 dy: 0
+vt: 7
+	dxm: 4 dym: 0
+_min: -2
+x: 2 y: 0
+	dx: 1 dy: -1
+	dx: 2 dy: -1
+	dx: 3 dy: -1
+	dx: 3 dy: 0
+	dx: 3 dy: 1
+	dx: 2 dy: 1
+	dx: 1 dy: 1
+	dx: 1 dy: 0
+vt: 7
+	dxm: 1 dym: 0
+_min: 3
+x: 3 y: 6
+	dx: 2 dy: 5
+	dx: 3 dy: 5
+	dx: 4 dy: 5
+	dx: 4 dy: 6
+	dx: 4 dy: 7
+	dx: 3 dy: 7
+	dx: 2 dy: 7
+	dx: 2 dy: 6
+vt: 6
+	dxm: 2 dym: 7
+_min: 2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 2 Y: 0
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 1
+dx: -1 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 6
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 6
+dx: -1 dy: 0
+Con thay doi: 6
+btn_click_agent: Color [Blue]
+location: 4
+X: 5 Y: 0
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 4 Y: 1
+dx: -1 dy: 1
+Con thay doi: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":1,"turn":9,"type":"move","agentID":4},{"dx":-1,"dy":1,"turn":9,"type":"move","agentID":5},{"dx":-1,"dy":0,"turn":9,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575466999936
+Ve Map
+x: 4 y: 1
+	dx: 3 dy: 0
+	dx: 4 dy: 0
+	dx: 5 dy: 0
+	dx: 5 dy: 1
+	dx: 5 dy: 2
+	dx: 4 dy: 2
+	dx: 3 dy: 2
+	dx: 3 dy: 1
+vt: 0
+	dxm: 3 dym: 0
+_min: 2
+x: 1 y: 1
+	dx: 0 dy: 0
+	dx: 1 dy: 0
+	dx: 2 dy: 0
+	dx: 2 dy: 1
+	dx: 2 dy: 2
+	dx: 1 dy: 2
+	dx: 0 dy: 2
+	dx: 0 dy: 1
+vt: 6
+	dxm: 0 dym: 2
+_min: 8
+x: 2 y: 6
+	dx: 1 dy: 5
+	dx: 2 dy: 5
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 3 dy: 7
+	dx: 2 dy: 7
+	dx: 1 dy: 7
+	dx: 1 dy: 6
+vt: 6
+	dxm: 1 dym: 7
+_min: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 2 Y: 6
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 3 Y: 7
+dx: 1 dy: 1
+Con thay doi: 6
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 1
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Red]
+location: 1
+X: 1 Y: 0
+dx: 0 dy: -1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 4 Y: 1
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 3 Y: 2
+dx: -1 dy: 1
+Con thay doi: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":1,"turn":10,"type":"move","agentID":4},{"dx":0,"dy":-1,"turn":10,"type":"remove","agentID":5},{"dx":1,"dy":1,"turn":10,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467000941
+Ve Map
+x: 3 y: 2
+	dx: 2 dy: 1
+	dx: 3 dy: 1
+	dx: 4 dy: 1
+	dx: 4 dy: 2
+	dx: 4 dy: 3
+	dx: 3 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 2
+vt: 4
+	dxm: 4 dym: 3
+_min: 4
+x: 1 y: 1
+	dx: 0 dy: 0
+	dx: 1 dy: 0
+	dx: 2 dy: 0
+	dx: 2 dy: 1
+	dx: 2 dy: 2
+	dx: 1 dy: 2
+	dx: 0 dy: 2
+	dx: 0 dy: 1
+vt: 6
+	dxm: 0 dym: 2
+_min: 8
+x: 3 y: 7
+	dx: 2 dy: 6
+	dx: 3 dy: 6
+	dx: 4 dy: 6
+	dx: 4 dy: 7
+	dx: 4 dy: 8
+	dx: 3 dy: 8
+	dx: 2 dy: 8
+	dx: 2 dy: 7
+vt: 7
+	dxm: 2 dym: 7
+_min: 2
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 3 Y: 2
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Violet]
+location: -1
+X: 4 Y: 3
+dx: 1 dy: 1
+Con thay doi: 4
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 1
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 2
+dx: 0 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 1
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 2
+dx: 1 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 7
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 8
+dx: -1 dy: 1
+Con thay doi: 6
+btn_click_agent: Color [DeepSkyBlue]
+location: -1
+X: 3 Y: 1
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 4 Y: 3
+btn_click_agent: Color [Blue]
+location: 4
+X: 3 Y: 2
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 3
+dx: -1 dy: 1
+Con thay doi: 4
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+Too many requests, please try again later.
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467001953
+Ve Map
+x: 3 y: 2
+	dx: 2 dy: 1
+	dx: 3 dy: 1
+	dx: 4 dy: 1
+	dx: 4 dy: 2
+	dx: 4 dy: 3
+	dx: 3 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 2
+vt: 4
+	dxm: 4 dym: 3
+_min: 4
+x: 1 y: 1
+	dx: 0 dy: 0
+	dx: 1 dy: 0
+	dx: 2 dy: 0
+	dx: 2 dy: 1
+	dx: 2 dy: 2
+	dx: 1 dy: 2
+	dx: 0 dy: 2
+	dx: 0 dy: 1
+vt: 6
+	dxm: 0 dym: 2
+_min: 8
+x: 3 y: 7
+	dx: 2 dy: 6
+	dx: 3 dy: 6
+	dx: 4 dy: 6
+	dx: 4 dy: 7
+	dx: 4 dy: 8
+	dx: 3 dy: 8
+	dx: 2 dy: 8
+	dx: 2 dy: 7
+vt: 7
+	dxm: 2 dym: 7
+_min: 2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Violet]
+location: -1
+X: 4 Y: 3
+btn_click_agent: Color [White]
+location: -1
+X: 5 Y: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Violet]
+location: -1
+X: 4 Y: 3
+btn_click_agent: Color [White]
+location: -1
+X: 4 Y: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 2
+btn_click_agent: Color [Blue]
+location: 4
+X: 3 Y: 2
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 3
+dx: -1 dy: 1
+Con thay doi: 4
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 1
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":-1,"dy":1,"turn":12,"type":"move","agentID":4},{"dx":-1,"dy":1,"turn":12,"type":"move","agentID":5},{"dx":-1,"dy":0,"turn":12,"type":"move","agentID":6}]}
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 2
+dx: 0 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 7
+btn_click_agent: Color [White]
+location: -1
+X: 4 Y: 8
+dx: 1 dy: 1
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 7
+btn_click_agent: Color [Yellow]
+location: 6
+X: 3 Y: 7
+dx: 0 dy: 0
+Con thay doi: 6
+btn_click_agent: Color [Blue]
+location: 4
+X: 3 Y: 2
+Lay thong tin tran dau: 388
+Time server: 1575467002960
+Ve Map
+x: 2 y: 3
+	dx: 1 dy: 2
+	dx: 2 dy: 2
+	dx: 3 dy: 2
+	dx: 3 dy: 3
+	dx: 3 dy: 4
+	dx: 2 dy: 4
+	dx: 1 dy: 4
+	dx: 1 dy: 3
+vt: 0
+	dxm: 1 dym: 2
+_min: 4
+x: 0 y: 2
+	dx: -1 dy: 1
+	dx: 0 dy: 1
+	dx: 1 dy: 1
+	dx: 1 dy: 2
+	dx: 1 dy: 3
+	dx: 0 dy: 3
+	dx: -1 dy: 3
+	dx: -1 dy: 2
+vt: 3
+	dxm: 1 dym: 2
+_min: 4
+x: 2 y: 7
+	dx: 1 dy: 6
+	dx: 2 dy: 6
+	dx: 3 dy: 6
+	dx: 3 dy: 7
+	dx: 3 dy: 8
+	dx: 2 dy: 8
+	dx: 1 dy: 8
+	dx: 1 dy: 7
+vt: 7
+	dxm: 1 dym: 7
+_min: 4
+btn_click_agent: Color [DeepSkyBlue]
+location: -1
+X: 3 Y: 2
+btn_click_agent: Color [DeepSkyBlue]
+location: -1
+X: 3 Y: 2
+btn_click_agent: Color [Red]
+location: 1
+X: 1 Y: 0
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Violet]
+location: -1
+X: 1 Y: 2
+btn_click_agent: Color [Violet]
+location: -1
+X: 1 Y: 2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+Time server: 1575467003970
+Ve Map
+x: 2 y: 3
+	dx: 1 dy: 2
+	dx: 2 dy: 2
+	dx: 3 dy: 2
+	dx: 3 dy: 3
+	dx: 3 dy: 4
+	dx: 2 dy: 4
+	dx: 1 dy: 4
+	dx: 1 dy: 3
+vt: 0
+	dxm: 1 dym: 2
+_min: 4
+x: 0 y: 2
+	dx: -1 dy: 1
+	dx: 0 dy: 1
+	dx: 1 dy: 1
+	dx: 1 dy: 2
+	dx: 1 dy: 3
+	dx: 0 dy: 3
+	dx: -1 dy: 3
+	dx: -1 dy: 2
+vt: 3
+	dxm: 1 dym: 2
+_min: 4
+x: 2 y: 7
+	dx: 1 dy: 6
+	dx: 2 dy: 6
+	dx: 3 dy: 6
+	dx: 3 dy: 7
+	dx: 3 dy: 8
+	dx: 2 dy: 8
+	dx: 1 dy: 8
+	dx: 1 dy: 7
+vt: 7
+	dxm: 1 dym: 7
+_min: 4
+{"actions":[{"dx":-1,"dy":-1,"turn":13,"type":"move","agentID":4},{"dx":1,"dy":0,"turn":13,"type":"move","agentID":5},{"dx":-1,"dy":0,"turn":13,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 0 Y: 2
+btn_click_agent: Color [White]
+location: -1
+X: 0 Y: 3
+dx: 0 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 3
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 4
+dx: 0 dy: 1
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 2 Y: 7
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 8
+dx: 0 dy: 1
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":1,"turn":14,"type":"move","agentID":4},{"dx":0,"dy":1,"turn":14,"type":"move","agentID":5},{"dx":0,"dy":1,"turn":14,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467004986
+Ve Map
+x: 2 y: 4
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 3 dy: 3
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 1 dy: 4
+vt: 3
+	dxm: 3 dym: 4
+_min: 3
+x: 0 y: 3
+	dx: -1 dy: 2
+	dx: 0 dy: 2
+	dx: 1 dy: 2
+	dx: 1 dy: 3
+	dx: 1 dy: 4
+	dx: 0 dy: 4
+	dx: -1 dy: 4
+	dx: -1 dy: 3
+vt: 5
+	dxm: 0 dym: 4
+_min: 6
+x: 2 y: 8
+	dx: 1 dy: 7
+	dx: 2 dy: 7
+	dx: 3 dy: 7
+	dx: 3 dy: 8
+	dx: 3 dy: 9
+	dx: 2 dy: 9
+	dx: 1 dy: 9
+	dx: 1 dy: 8
+vt: 0
+	dxm: 1 dym: 7
+_min: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 4
+btn_click_agent: Color [White]
+location: -1
+X: 2 Y: 5
+dx: 0 dy: 1
+Con thay doi: 4
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 0 Y: 3
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 4
+dx: 1 dy: 1
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 2 Y: 8
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 3 Y: 9
+dx: 1 dy: 1
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+The thread 0xd4 has exited with code 0 (0x0).
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":1,"turn":15,"type":"move","agentID":4},{"dx":1,"dy":1,"turn":15,"type":"move","agentID":5},{"dx":1,"dy":1,"turn":15,"type":"move","agentID":6}]}
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 4
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 4
+dx: 0 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 0 Y: 3
+btn_click_agent: Color [Yellow]
+location: 5
+X: 0 Y: 3
+dx: 0 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [Violet]
+location: -1
+X: 3 Y: 9
+btn_click_agent: Color [Violet]
+location: -1
+X: 3 Y: 9
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 2 Y: 8
+btn_click_agent: Color [Yellow]
+location: 6
+X: 2 Y: 8
+dx: 0 dy: 0
+Con thay doi: 6
+btn_click_agent: Color [Blue]
+location: 6
+X: 2 Y: 8
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467005998
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 3 y: 9
+	dx: 2 dy: 8
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 4 dy: 9
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 2 dy: 10
+	dx: 2 dy: 9
+vt: 3
+	dxm: 4 dym: 9
+_min: -2
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 4
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 4
+dx: 0 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 9
+btn_click_agent: Color [Yellow]
+location: 6
+X: 3 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+Too many requests, please try again later.
+Lay thong tin tran dau: 388
+Time server: 1575467007008
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 3 y: 9
+	dx: 2 dy: 8
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 4 dy: 9
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 2 dy: 10
+	dx: 2 dy: 9
+vt: 3
+	dxm: 4 dym: 9
+_min: -2
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 4
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 4
+dx: 0 dy: 0
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 9
+btn_click_agent: Color [Yellow]
+location: 6
+X: 3 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":0,"turn":17,"type":"move","agentID":4},{"dx":0,"dy":0,"turn":17,"type":"move","agentID":5},{"dx":0,"dy":0,"turn":17,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467008017
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 3 y: 9
+	dx: 2 dy: 8
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 4 dy: 9
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 2 dy: 10
+	dx: 2 dy: 9
+vt: 3
+	dxm: 4 dym: 9
+_min: -2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 4
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 4
+dx: 0 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 9
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Yellow]
+location: 6
+X: 3 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":0,"turn":18,"type":"move","agentID":4},{"dx":0,"dy":0,"turn":18,"type":"move","agentID":5},{"dx":0,"dy":0,"turn":18,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467009024
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 3 y: 9
+	dx: 2 dy: 8
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 4 dy: 9
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 2 dy: 10
+	dx: 2 dy: 9
+vt: 3
+	dxm: 4 dym: 9
+_min: -2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 8 Y: 6
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 4
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 4
+dx: 0 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 9
+btn_click_agent: Color [Yellow]
+location: 6
+X: 3 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":0,"turn":19,"type":"move","agentID":4},{"dx":0,"dy":0,"turn":19,"type":"move","agentID":5},{"dx":0,"dy":0,"turn":19,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467010033
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 3 y: 9
+	dx: 2 dy: 8
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 4 dy: 9
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 2 dy: 10
+	dx: 2 dy: 9
+vt: 3
+	dxm: 4 dym: 9
+_min: -2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 4
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 4
+dx: 0 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 9
+btn_click_agent: Color [Yellow]
+location: 6
+X: 3 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":0,"turn":20,"type":"move","agentID":4},{"dx":0,"dy":0,"turn":20,"type":"move","agentID":5},{"dx":0,"dy":0,"turn":20,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467011038
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 3 y: 9
+	dx: 2 dy: 8
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 4 dy: 9
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 2 dy: 10
+	dx: 2 dy: 9
+vt: 3
+	dxm: 4 dym: 9
+_min: -2
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 4
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 4
+dx: 0 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 9
+dx: 1 dy: 4
+btn_click_agent: Color [Blue]
+location: 6
+X: 3 Y: 9
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":0,"turn":21,"type":"move","agentID":4},{"dx":0,"dy":0,"turn":21,"type":"move","agentID":5},{"dx":1,"dy":0,"turn":21,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467012043
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 4 y: 9
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 5 dy: 8
+	dx: 5 dy: 9
+	dx: 5 dy: 10
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 3 dy: 9
+vt: 3
+	dxm: 5 dym: 9
+_min: -2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 4
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 4
+dx: 0 dy: 0
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+btn_click_agent: Color [Blue]
+location: 6
+X: 4 Y: 9
+btn_click_agent: Color [Yellow]
+location: 6
+X: 4 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":0,"turn":22,"type":"move","agentID":4},{"dx":0,"dy":0,"turn":22,"type":"move","agentID":5},{"dx":0,"dy":0,"turn":22,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467013051
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 4
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 2 dy: 5
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: 0 dy: 4
+vt: 6
+	dxm: 0 dym: 5
+_min: 6
+x: 4 y: 9
+	dx: 3 dy: 8
+	dx: 4 dy: 8
+	dx: 5 dy: 8
+	dx: 5 dy: 9
+	dx: 5 dy: 10
+	dx: 4 dy: 10
+	dx: 3 dy: 10
+	dx: 3 dy: 9
+vt: 3
+	dxm: 5 dym: 9
+_min: -2
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":1,"dy":-1,"turn":23,"type":"move","agentID":4},{"dx":-1,"dy":1,"turn":23,"type":"move","agentID":5},{"dx":1,"dy":0,"turn":23,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467014057
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 0 y: 5
+	dx: -1 dy: 4
+	dx: 0 dy: 4
+	dx: 1 dy: 4
+	dx: 1 dy: 5
+	dx: 1 dy: 6
+	dx: 0 dy: 6
+	dx: -1 dy: 6
+	dx: -1 dy: 5
+vt: 1
+	dxm: 0 dym: 4
+_min: 6
+x: 5 y: 9
+	dx: 4 dy: 8
+	dx: 5 dy: 8
+	dx: 6 dy: 8
+	dx: 6 dy: 9
+	dx: 6 dy: 10
+	dx: 5 dy: 10
+	dx: 4 dy: 10
+	dx: 4 dy: 9
+vt: 2
+	dxm: 6 dym: 8
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":1,"dy":-1,"turn":24,"type":"move","agentID":4},{"dx":0,"dy":-1,"turn":24,"type":"move","agentID":5},{"dx":1,"dy":-1,"turn":24,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467015062
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 0 y: 4
+	dx: -1 dy: 3
+	dx: 0 dy: 3
+	dx: 1 dy: 3
+	dx: 1 dy: 4
+	dx: 1 dy: 5
+	dx: 0 dy: 5
+	dx: -1 dy: 5
+	dx: -1 dy: 4
+vt: 2
+	dxm: 1 dym: 3
+_min: 1
+x: 6 y: 8
+	dx: 5 dy: 7
+	dx: 6 dy: 7
+	dx: 7 dy: 7
+	dx: 7 dy: 8
+	dx: 7 dy: 9
+	dx: 6 dy: 9
+	dx: 5 dy: 9
+	dx: 5 dy: 8
+vt: 4
+	dxm: 7 dym: 9
+_min: 7
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":1,"dy":-1,"turn":25,"type":"move","agentID":4},{"dx":1,"dy":-1,"turn":25,"type":"move","agentID":5},{"dx":1,"dy":1,"turn":25,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467016072
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 3
+	dx: 0 dy: 2
+	dx: 1 dy: 2
+	dx: 2 dy: 2
+	dx: 2 dy: 3
+	dx: 2 dy: 4
+	dx: 1 dy: 4
+	dx: 0 dy: 4
+	dx: 0 dy: 3
+vt: 1
+	dxm: 1 dym: 2
+_min: 4
+x: 7 y: 9
+	dx: 6 dy: 8
+	dx: 7 dy: 8
+	dx: 8 dy: 8
+	dx: 8 dy: 9
+	dx: 8 dy: 10
+	dx: 7 dy: 10
+	dx: 6 dy: 10
+	dx: 6 dy: 9
+vt: 3
+	dxm: 8 dym: 9
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":1,"dy":-1,"turn":26,"type":"move","agentID":4},{"dx":0,"dy":-1,"turn":26,"type":"move","agentID":5},{"dx":1,"dy":0,"turn":26,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467017081
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 1 y: 2
+	dx: 0 dy: 1
+	dx: 1 dy: 1
+	dx: 2 dy: 1
+	dx: 2 dy: 2
+	dx: 2 dy: 3
+	dx: 1 dy: 3
+	dx: 0 dy: 3
+	dx: 0 dy: 2
+vt: 3
+	dxm: 2 dym: 2
+_min: 2
+x: 7 y: 9
+	dx: 6 dy: 8
+	dx: 7 dy: 8
+	dx: 8 dy: 8
+	dx: 8 dy: 9
+	dx: 8 dy: 10
+	dx: 7 dy: 10
+	dx: 6 dy: 10
+	dx: 6 dy: 9
+vt: 3
+	dxm: 8 dym: 9
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+{"actions":[{"dx":1,"dy":-1,"turn":27,"type":"move","agentID":4},{"dx":1,"dy":0,"turn":27,"type":"move","agentID":5},{"dx":1,"dy":0,"turn":27,"type":"move","agentID":6}]}
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 1 Y: 2
+btn_click_agent: Color [Yellow]
+location: 5
+X: 1 Y: 2
+dx: 0 dy: 0
+Con thay doi: 5
+Lay thong tin tran dau: 388
+Time server: 1575467018088
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 2 y: 2
+	dx: 1 dy: 1
+	dx: 2 dy: 1
+	dx: 3 dy: 1
+	dx: 3 dy: 2
+	dx: 3 dy: 3
+	dx: 2 dy: 3
+	dx: 1 dy: 3
+	dx: 1 dy: 2
+vt: 4
+	dxm: 3 dym: 3
+_min: 0
+x: 7 y: 9
+	dx: 6 dy: 8
+	dx: 7 dy: 8
+	dx: 8 dy: 8
+	dx: 8 dy: 9
+	dx: 8 dy: 10
+	dx: 7 dy: 10
+	dx: 6 dy: 10
+	dx: 6 dy: 9
+vt: 3
+	dxm: 8 dym: 9
+_min: 3
+btn_click_agent: Color [Blue]
+location: 6
+X: 7 Y: 9
+btn_click_agent: Color [Yellow]
+location: 6
+X: 7 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 7 Y: 9
+btn_click_agent: Color [Yellow]
+location: 6
+X: 7 Y: 9
+dx: 0 dy: 0
+Con thay doi: 6
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+btn_click_agent: Color [Yellow]
+location: 4
+X: 2 Y: 5
+dx: 0 dy: 0
+Con thay doi: 4
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Red]
+location: 1
+X: 0 Y: 1
+btn_click_agent: Color [Red]
+location: 1
+X: 0 Y: 1
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 2 Y: 2
+btn_click_agent: Color [Yellow]
+location: 5
+X: 2 Y: 2
+dx: 0 dy: 0
+Con thay doi: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Pink]
+location: -1
+X: 1 Y: 0
+btn_click_agent: Color [Pink]
+location: -1
+X: 1 Y: 0
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 0 Y: 0
+btn_click_agent: Color [White]
+location: -1
+X: 4 Y: 0
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Red]
+location: 1
+X: 0 Y: 1
+btn_click_agent: Color [Pink]
+location: -1
+X: 1 Y: 0
+btn_click_agent: Color [Red]
+location: 1
+X: 0 Y: 1
+btn_click_agent: Color [White]
+location: -1
+X: 0 Y: 0
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":0,"dy":0,"turn":28,"type":"move","agentID":4},{"dx":0,"dy":0,"turn":28,"type":"move","agentID":5},{"dx":0,"dy":0,"turn":28,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Time server: 1575467019093
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 2 y: 2
+	dx: 1 dy: 1
+	dx: 2 dy: 1
+	dx: 3 dy: 1
+	dx: 3 dy: 2
+	dx: 3 dy: 3
+	dx: 2 dy: 3
+	dx: 1 dy: 3
+	dx: 1 dy: 2
+vt: 7
+	dxm: 1 dym: 2
+_min: 4
+x: 7 y: 9
+	dx: 6 dy: 8
+	dx: 7 dy: 8
+	dx: 8 dy: 8
+	dx: 8 dy: 9
+	dx: 8 dy: 10
+	dx: 7 dy: 10
+	dx: 6 dy: 10
+	dx: 6 dy: 9
+vt: 3
+	dxm: 8 dym: 9
+_min: 3
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Pink]
+location: -1
+X: 1 Y: 0
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 0 Y: 0
+btn_click_agent: Color [Blue]
+location: 5
+X: 2 Y: 2
+btn_click_agent: Color [Yellow]
+location: 5
+X: 2 Y: 2
+dx: 0 dy: 0
+Con thay doi: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 5
+X: 2 Y: 2
+btn_click_agent: Color [Yellow]
+location: 5
+X: 2 Y: 2
+dx: 0 dy: 0
+Con thay doi: 5
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 2
+btn_click_agent: Color [Blue]
+location: 5
+X: 2 Y: 2
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 2
+dx: -1 dy: 0
+Con thay doi: 5
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 6
+X: 7 Y: 9
+btn_click_agent: Color [Violet]
+location: -1
+X: 8 Y: 9
+dx: 1 dy: 0
+Con thay doi: 6
+--- Submit ---
+Lay thong tin tran dau: 388
+{"actions":[{"dx":1,"dy":-1,"turn":29,"type":"move","agentID":4},{"dx":-1,"dy":0,"turn":29,"type":"move","agentID":5},{"dx":1,"dy":0,"turn":29,"type":"move","agentID":6}]}
+Lay thong tin tran dau: 388
+btn_click_agent: Color [Blue]
+location: 4
+X: 2 Y: 5
+Lay thong tin tran dau: 388
+btn_click_agent: Color [White]
+location: -1
+X: 1 Y: 6
+dx: -1 dy: 1
+Con thay doi: 4
+Lay thong tin tran dau: 388
+Time server: 1575467020098
+Ve Map
+x: 2 y: 5
+	dx: 1 dy: 4
+	dx: 2 dy: 4
+	dx: 3 dy: 4
+	dx: 3 dy: 5
+	dx: 3 dy: 6
+	dx: 2 dy: 6
+	dx: 1 dy: 6
+	dx: 1 dy: 5
+vt: 2
+	dxm: 3 dym: 4
+_min: 3
+x: 2 y: 2
+	dx: 1 dy: 1
+	dx: 2 dy: 1
+	dx: 3 dy: 1
+	dx: 3 dy: 2
+	dx: 3 dy: 3
+	dx: 2 dy: 3
+	dx: 1 dy: 3
+	dx: 1 dy: 2
+vt: 7
+	dxm: 1 dym: 2
+_min: 4
+x: 7 y: 9
+	dx: 6 dy: 8
+	dx: 7 dy: 8
+	dx: 8 dy: 8
+	dx: 8 dy: 9
+	dx: 8 dy: 10
+	dx: 7 dy: 10
+	dx: 6 dy: 10
+	dx: 6 dy: 9
+vt: 3
+	dxm: 8 dym: 9
+_min: 3
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+--- Submit ---
+Lay thong tin tran dau: 388
+Too many requests, please try again later.
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388
+Lay thong tin tran dau: 388

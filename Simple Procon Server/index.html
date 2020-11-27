@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        form>* {
+            display: block;
+            margin: 5px;
+        }
+        .result>* {
+            display: block;
+            margin: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <form id="action-form">
+        <label for="host">host</label>
+        <input type="text" name="host" id="host">
+        <label for="token">token</label>
+        <input type="text" name="token" id="token">
+        <label for="matchID">matchID</label>
+        <input type="text" name="match-id" id="match-id">
+        <label for="json">input json</label>
+        <textarea name="json" id="json" cols="30" rows="10"></textarea>
+        <button>submit</button>
+    </form>
+    <div class="result">
+        <label for="response">response</label>
+        <textarea id="response"></textarea>
+    </div>
+    </div>
+    <script>
+        const form = document.getElementById("action-form")
+        form.addEventListener("submit", (e)=>{
+            e.preventDefault()
+            const host = document.getElementById("host").value.trim()
+            const token = document.getElementById("token").value.trim()
+            const matchID = document.getElementById("match-id").value.trim()
+            const json = document.getElementById("json").value.trim()
+            
+            const url = `http://${host}/matches/${matchID}/action`
+            // Authorization header に 各高専ごとに決められた token をつけてPOSTする
+            // https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+            fetch(url, {
+                method: "POST",
+                headers:{
+                    "Authorization": token,
+                    "Content-Type": "application/json"
+                },
+                body: json
+            }).then(response => {
+                const resTextArea = document.getElementById("response")
+                response.text().then(body => {
+                    resTextArea.value = Array.from(response.headers.entries()).map(([k, v]) => `${k}: ${v}`).join('\n') + "\n\n" + body;
+                })
+            })
+            return false;
+        })
+    </script>
+</body>
+
+</html>

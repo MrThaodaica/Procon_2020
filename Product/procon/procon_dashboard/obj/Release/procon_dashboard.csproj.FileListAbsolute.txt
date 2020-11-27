@@ -1,0 +1,16 @@
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\bin\Release\procon_dashboard.exe.config
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\bin\Release\procon_dashboard.exe
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\bin\Release\procon_dashboard.pdb
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\bin\Release\Newtonsoft.Json.dll
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\bin\Release\System.Net.Http.Formatting.dll
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\bin\Release\Newtonsoft.Json.xml
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\bin\Release\System.Net.Http.Formatting.xml
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.csprojAssemblyReference.cache
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.frm_map.resources
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.frm_main.resources
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.Properties.Resources.resources
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.csproj.GenerateResource.cache
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.csproj.CoreCompileInputs.cache
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.csproj.CopyComplete
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.exe
+D:\Procon\procon_2019-master\Product\moi\proconNhan-master\procon_dashboard\obj\Release\procon_dashboard.pdb
